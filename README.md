@@ -14,15 +14,20 @@ Completed List
 * ch02 wgpu Basics
   - [x] sc01 [first_triangle](./examples/ch02/first_triangle.rs)
   - [x] sc04 [triangle_vertex_color](./examples/ch02/triangle_vertex_color.rs)
+
 <img align="right" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg">
+
 * ch03 wgpu Primitives
-  - [ ] sc01 [point_line](./examples/ch03/point_line.rs) (__continue__)
+  - [ ] sc01 [point_line](./examples/ch03/point_line.rs) (*TBC*)
   - [ ] sc02 triangles
 * ch04 GPU Buffers
   - [ ] sc02 triangle
   - [ ] sc03 square
   - [ ] sc04 square_index
+
 <img align="right" src="https://drxudotnet.com/images/xu_logo.png">
+
+
 * ch05 3D Transformations
   - [ ] sc01 scaling
   - [ ] sc01 translation
