@@ -18,8 +18,8 @@ Completed List
 <img align="right" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg">
 
 * ch03 wgpu Primitives
-  - [ ] sc01 [point_line](./examples/ch03/point_line.rs) (*TBC*)
-  - [ ] sc02 triangles
+  - [x] sc01 [point_line](./examples/ch03/point_line.rs)
+  - [x] sc02 [triangles](./examples/ch03/triangles.rs)
 * ch04 GPU Buffers
   - [ ] sc02 triangle
   - [ ] sc03 square
