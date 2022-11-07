@@ -33,3 +33,7 @@ path="examples/ch02/first_triangle.rs"
 name="ch02_triangle_vertex_color"
 path="examples/ch02/triangle_vertex_color.rs"
 
+[[example]]
+name="ch03_point_line"
+path="examples/ch03/point_line.rs"
+
