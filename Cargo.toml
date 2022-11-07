@@ -25,3 +25,7 @@ path="examples/ch01/hello_world.rs"
 name="ch01_hellowindow"
 path="examples/ch01/hello_window.rs"
 
+[[example]]
+name="ch02_first_triangle"
+path="examples/ch02/first_triangle.rs"
+
