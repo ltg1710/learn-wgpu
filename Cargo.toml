@@ -29,3 +29,7 @@ path="examples/ch01/hello_window.rs"
 name="ch02_first_triangle"
 path="examples/ch02/first_triangle.rs"
 
+[[example]]
+name="ch02_triangle_vertex_color"
+path="examples/ch02/triangle_vertex_color.rs"
+

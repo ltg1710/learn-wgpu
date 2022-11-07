@@ -16,12 +16,12 @@ All code is compiled and run in this environment
 
 Completed List
 * ch02 wgpu Basics
-  [x] sc01 [first_triangle](./examples/ch02/first_triangle.rs) (*UPDATED!*)
-  [ ] sc04 triangle_vertex_color
+  - [x] sc01 [first_triangle](./examples/ch02/first_triangle.rs)
+  - [x] sc04 [triangle_vertex_color](./examples/ch02/triangle_vertex_color.rs)
 * ch03 wgpu Primitives
-  [ ] sc01 point_line
-  [ ] sc02 triangles
+  - [ ] sc01 point_line
+  - [ ] sc02 triangles
 * ch04 GPU Buffers
-  [ ] sc02 triangle
-  [ ] sc03 square
-  [ ] sc04 square_index
+  - [ ] sc02 triangle
+  - [ ] sc03 square
+  - [ ] sc04 square_index
