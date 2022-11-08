@@ -49,3 +49,7 @@ path="examples/ch04/triangle.rs"
 [[example]]
 name="ch04_square"
 path="examples/ch04/square.rs"
+
+[[example]]
+name="ch04_square_index"
+path="examples/ch04/square_index.rs"

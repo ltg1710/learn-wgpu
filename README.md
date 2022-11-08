@@ -21,9 +21,9 @@ Completed List
   - [x] sc01 [point_line](./examples/ch03/point_line.rs)
   - [x] sc02 [triangles](./examples/ch03/triangles.rs)
 * ch04 GPU Buffers
-  - [ ] sc02 triangle
-  - [ ] sc03 square
-  - [ ] sc04 square_index
+  - [x] sc02 [triangle](./examples/ch04/triangle.rs)
+  - [x] sc03 [square](./examples/ch04/square.rs)
+  - [x] sc04 [square_index](./examples/ch04/square_index.rs)
 
 <img align="right" src="https://drxudotnet.com/images/xu_logo.png">
 
