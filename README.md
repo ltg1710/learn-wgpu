@@ -27,13 +27,12 @@ Completed List
 
 <img align="right" src="https://drxudotnet.com/images/xu_logo.png">
 
-
 * ch05 3D Transformations
-  - [ ] sc01 scaling
-  - [ ] sc01 translation
-  - [ ] sc01 rotation
-  - [ ] sc01 transforms
-  - [ ] sc02 view_projection
+  - [x] sc01 [scaling](./examples/ch05/scaling.rs)
+  - [x] sc01 [translation](./examples/ch05/translation.rs)
+  - [x] sc01 [rotation](./examples/ch05/rotation.rs)
+  - [x] sc01 [transforms](./examples/ch05/transform.rs)
+  - [x] sc02 [view_projection](./examples/ch05/view_projection.rs)
 * ch06 3D Shapes and Camera
   - [ ] sc02 line3d
   - [ ] sc03 cube_face_color
