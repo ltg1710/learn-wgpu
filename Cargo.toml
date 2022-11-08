@@ -45,3 +45,7 @@ path="examples/ch03/triangles.rs"
 [[example]]
 name="ch04_triangle"
 path="examples/ch04/triangle.rs"
+
+[[example]]
+name="ch04_square"
+path="examples/ch04/square.rs"

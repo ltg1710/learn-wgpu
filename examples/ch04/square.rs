@@ -17,17 +17,32 @@ struct Vertex {
 const VERTICES: &[Vertex] = &[
     Vertex {
         // vertex a
-        position: [0.0, 0.5],
+        position: [-0.5, -0.5],
         color: [1.0, 0.0, 0.0],
     },
     Vertex {
         // vertex b
-        position: [-0.5, -0.5],
+        position: [0.5, -0.5],
+        color: [0.0, 1.0, 0.0],
+    },
+    Vertex {
+        // vertex d
+        position: [-0.5, 0.5],
+        color: [1.0, 1.0, 0.0],
+    },
+    Vertex {
+        // vertex d
+        position: [-0.5, 0.5],
+        color: [1.0, 1.0, 0.0],
+    },
+    Vertex {
+        // vertex b
+        position: [0.5, -0.5],
         color: [0.0, 1.0, 0.0],
     },
     Vertex {
         // vertex c
-        position: [0.5, -0.5],
+        position: [0.5, 0.5],
         color: [0.0, 0.0, 1.0],
     },
 ];
@@ -192,7 +207,7 @@ impl State {
             });
             render_pass.set_pipeline(&self.pipeline);
             render_pass.set_vertex_buffer(0, self.vertex_buffer.slice(..));
-            render_pass.draw(0..3, 0..1);
+            render_pass.draw(0..6, 0..1);
         }
         self.queue.submit(iter::once(encoder.finish()));
         output.present();
