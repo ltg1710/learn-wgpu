@@ -6,6 +6,7 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+bytemuck = { version = "1.4", features = ["derive"] }
 wgpu = "0.14" 
 cgmath = "0.18" 
 env_logger = "0.9.1" 
@@ -40,3 +41,7 @@ path="examples/ch03/point_line.rs"
 [[example]]
 name="ch03_triangles"
 path="examples/ch03/triangles.rs"
+
+[[example]]
+name="ch04_triangle"
+path="examples/ch04/triangle.rs"
