@@ -69,3 +69,7 @@ path="examples/ch05/rotation.rs"
 [[example]]
 name="ch05_view_projection"
 path="examples/ch05/view_projection.rs"
+
+[[example]]
+name="ch06_line3d"
+path="examples/ch06/line3d.rs"

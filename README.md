@@ -31,10 +31,10 @@ Completed List
   - [x] sc01 [scaling](./examples/ch05/scaling.rs)
   - [x] sc01 [translation](./examples/ch05/translation.rs)
   - [x] sc01 [rotation](./examples/ch05/rotation.rs)
-  - [x] sc01 [transforms](./examples/ch05/transform.rs)
+  - [x] sc01 [transforms](examples/ch05/transforms.rs)
   - [x] sc02 [view_projection](./examples/ch05/view_projection.rs)
 * ch06 3D Shapes and Camera
-  - [ ] sc02 line3d
+  - [x] sc02 [line3d](./examples/ch06/line3d.rs)
   - [ ] sc03 cube_face_color
   - [ ] sc04 cube_vertex_color
   - [ ] sc05 rotate_cube
