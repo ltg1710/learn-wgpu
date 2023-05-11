@@ -4,7 +4,7 @@ Learn [WGPU](https://wgpu.rs/) & [Rust](https://www.rust-lang.org/) From [Dr xu]
 
 
 All code is compiled and run in this environment
-* wgpu    - 0.14
+* wgpu    - 0.16
 * rustc   - 1.64.0
 * windows - 21H1
 * GPU     - GTX 1650
